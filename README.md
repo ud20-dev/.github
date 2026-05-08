@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 UD20-dev
+# UD20-dev
 
 ### Solutions & Services Numériques
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🏢 Qui sommes-nous ?
+## Qui sommes-nous ?
 
 **UD20-dev** est une entreprise de solutions numériques basée en **Côte d'Ivoire**, spécialisée dans la conception et le développement de produits digitaux sur mesure.
 
@@ -25,51 +25,42 @@ Nous accompagnons les entreprises, startups et porteurs de projets dans leur tra
 
 ---
 
-## 💼 Nos Services
+## Nos Services
 
-### 🌐 Développement Web
-Création d'applications web modernes, rapides et évolutives.
-- Interfaces utilisateur React / TypeScript
-- Applications web full-stack
-- Tableaux de bord et back-offices
+**Développement Web**
+Création d'applications web modernes, rapides et évolutives — interfaces React/TypeScript, applications full-stack, tableaux de bord et back-offices.
 
-### 📱 Solutions Numériques Sur Mesure
-Nous construisons des outils adaptés à vos besoins spécifiques.
-- Plateformes SaaS
-- Systèmes de gestion internes
-- Automatisation de processus métier
+**Solutions Numériques Sur Mesure**
+Plateformes SaaS, systèmes de gestion internes, automatisation de processus métier.
 
-### 🎨 Design & Expérience Utilisateur
-Des interfaces pensées pour l'utilisateur, belles et intuitives.
-- UI/UX Design
-- Maquettes et prototypes
-- Design systems
+**Design & Expérience Utilisateur**
+Interfaces pensées pour l'utilisateur — UI/UX Design, maquettes, prototypes, design systems.
 
 ---
 
-## 🛠️ Notre Stack Technique
+## Stack Technique
 
 | Catégorie | Technologies |
 |-----------|-------------|
-| **Frontend** | React, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, REST API |
-| **Design** | Figma |
-| **DevOps** | Git, GitHub, Vercel |
+| Frontend | React, TypeScript, Tailwind CSS |
+| Backend | Node.js, REST API |
+| Design | Figma |
+| DevOps | Git, GitHub, Vercel |
 
 ---
 
-## 📂 Nos Projets
+## Projets
 
-> 🚧 Nos premiers projets arrivent bientôt. Suivez-nous pour rester informés !
+> Nos premiers projets arrivent bientôt.
 
 ---
 
-## 📬 Nous Contacter
+## Contact
 
 Vous avez un projet ? Parlons-en.
 
-- 📧 **Email :** ud20.dev@gmail.com
-- 🐙 **GitHub :** [github.com/ud20-dev](https://github.com/ud20-dev)
+- Email : ud20.dev@gmail.com
+- GitHub : [github.com/ud20-dev](https://github.com/ud20-dev)
 
 ---
 
