@@ -6,40 +6,40 @@
 
 ---
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🏢 Qui sommes-nous ?
+## Qui sommes-nous ?
 
-**UD20-dev** est une entreprise de solutions numériques basée en **Côte d'Ivoire 🇨🇮**, spécialisée dans la conception et le développement de produits digitaux sur mesure.
+**UD20-dev** est une entreprise de solutions numériques basée en **Côte d'Ivoire**, spécialisée dans la conception et le développement de produits digitaux sur mesure.
 
 Nous accompagnons les entreprises, startups et porteurs de projets dans leur transformation numérique — de l'idée jusqu'au produit final.
 
 ---
 
-## 💼 Nos Services
+## Nos Services
 
-### 🌐 Développement Web
+### Développement Web
 Création d'applications web modernes, rapides et évolutives.
 - Interfaces utilisateur React / TypeScript
 - Applications web full-stack
 - Tableaux de bord et back-offices
 
-### 🧩 Solutions Numériques Sur Mesure
+### Solutions Numériques Sur Mesure
 Nous construisons des outils adaptés à vos besoins spécifiques.
 - Plateformes SaaS
 - Systèmes de gestion internes
 - Automatisation de processus métier
 
-### 🎨 Design & Expérience Utilisateur
+### Design & Expérience Utilisateur
 Des interfaces pensées pour l'utilisateur, belles et intuitives.
 - UI/UX Design
 - Maquettes et prototypes
@@ -47,7 +47,7 @@ Des interfaces pensées pour l'utilisateur, belles et intuitives.
 
 ---
 
-## 🛠️ Notre Stack Technique
+## Stack Technique
 
 | Catégorie | Technologies |
 |-----------|-------------|
@@ -58,18 +58,18 @@ Des interfaces pensées pour l'utilisateur, belles et intuitives.
 
 ---
 
-## 📂 Nos Projets
+## Projets
 
-> 🚧 Nos premiers projets arrivent bientôt. Suivez-nous pour rester informés !
+> Nos premiers projets arrivent bientôt. Suivez-nous pour rester informés.
 
 ---
 
-## 📬 Nous Contacter
+## Contact
 
 Vous avez un projet ? Parlons-en.
 
-- 📧 **Email :** [ud20.dev@gmail.com](mailto:ud20.dev@gmail.com)
-- 🐙 **GitHub :** [github.com/ud20-dev](https://github.com/ud20-dev)
+- **Email :** [ud20.dev@gmail.com](mailto:ud20.dev@gmail.com)
+- **GitHub :** [github.com/ud20-dev](https://github.com/ud20-dev)
 
 ---
 
